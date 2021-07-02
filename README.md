@@ -1,4 +1,4 @@
-# csharp_vigenere_encode_decode
+# csharp_vigenere_encode_decode - Метод шифрования/дешифрования Видженера
 
 Функция public string vigenere(string s, string key, bool decode)
 
